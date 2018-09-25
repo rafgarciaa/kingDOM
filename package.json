@@ -1,0 +1,30 @@
+{
+  "name": "kingDOM",
+  "version": "1.0.0",
+  "description": "",
+  "main": "kingDOM.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafgarciaa/kingDOM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafgarciaa/kingDOM/issues"
+  },
+  "homepage": "https://github.com/rafgarciaa/kingDOM#readme",
+  "dependencies": {
+    "webpack": "^4.20.1",
+    "webpack-cli": "^3.1.1"
+  },
+  "scripts": {
+    "webpack": "webpack --watch lib/main.js -o lib/kingDOM.js --mode=development"
+  }
+}
