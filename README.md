@@ -9,10 +9,11 @@ KingDOM is a JavaScript DOM interaction library. Using this library, users can:
 + Make simple `HTTP` requests
 
 ## Setup
-+ The quickest way to get started with KingDOM is to include this ```javascript
++ The quickest way to get started with KingDOM is to include this
+```javascript
 <script src="https://cdn.rawgit.com/rafgarciaa/kingDOM/00effd60/lib/kingDOM.js"></script>
-``` script tag in your HTML file.
-
+```
+script tag in your HTML file.
 
 ## API
 
